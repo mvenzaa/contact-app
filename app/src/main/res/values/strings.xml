@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="lahir">Lahir :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="surel">Surel :</string>
+    <string name="telpon">Telpon :</string>
+    <string name="seluler">Seluler :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="lokasi">Lokasi :</string>
+</resources>
